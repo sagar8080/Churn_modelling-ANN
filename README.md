@@ -1,6 +1,7 @@
-# Churn_modelling-ANN
+# Churn Modelling using ANN
 
-## Aim : create a geographic segmentation model to tell which of the customers are at highest risk of leaving.
+## Aim :
+create a geographic segmentation model to tell which of the customers are at highest risk of leaving.
 
 ### Business Problem: 
 Dataset of a bank with 10,000 customers measured lots of attributes of the customer and is seeing unusual churn rates at a high rate. Want to understand what the problem is, address the problem, and give them insights. 10,000 is a sample, millions of customer across Europe. 
